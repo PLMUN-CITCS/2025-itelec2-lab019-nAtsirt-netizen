@@ -1,4 +1,3 @@
-grade_calculator_functions.py
 
 def get_student_score():
     
