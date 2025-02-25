@@ -1,4 +1,3 @@
-
 def get_student_score():
     
     while True:
